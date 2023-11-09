@@ -4347,6 +4347,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Behaviors.Pin.Acts.PinByProperties,
 		C3.Plugins.Mouse.Cnds.OnObjectClicked,
 		C3.Plugins.Touch.Cnds.OnTapGestureObject,
+		C3.Plugins.Touch.Cnds.OnTouchObject,
 		C3.Plugins.System.Acts.RestartLayout,
 		C3.Plugins.System.Acts.ResetGlobals
 	];
